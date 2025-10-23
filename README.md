@@ -3,13 +3,13 @@
 <h1 align="center">Hi, I'm <b>Talia Chen</b> </h1>
 
 <p align="center">
-  Researcher · Biology × Computation × Open Science 
+  🇨🇳 Researcher · Biology × Computation × Open Science 
 </p>
 
 ---
 
 <p align="center">
-· 🇨🇳 · Interdisciplinary learner · Applying to universities in the UK & US  
+· Interdisciplinary learner · Applying to universities in the UK & US  
 <br>
 · 🏔️ · Mountaineer (highest summit: 5210 m)  
 <br>
