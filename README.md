@@ -8,12 +8,13 @@
 
 ---
 
-<p align="center">· 🇨🇳 ·  Interdisciplinary learner · Currently applying to universities in the UK and the US</p>
-
-
-### Current Focus
+<p align="center">· 🇨🇳 
+  ·  Interdisciplinary learner 
+  · Currently applying to universities in the UK and the US
+## Current Focus
 - Circadian rhythm and behavioral modeling  
 - Reproducible research pipelines for open science  
+</p>
 
 <p align="center">
   <img src="https://github.com/chentalia317-alt/chentalia317-alt/blob/main/dog.jpg" width="280" alt="science animation">
