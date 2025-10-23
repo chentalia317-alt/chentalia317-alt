@@ -11,7 +11,7 @@
 <p align="center">· 🇨🇳 
   ·  Interdisciplinary learner 
   · Currently applying to universities in the UK and the US
-## Current Focus
+### Current Focus
 - Circadian rhythm and behavioral modeling  
 - Reproducible research pipelines for open science  
 </p>
