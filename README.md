@@ -3,23 +3,25 @@
 <h1 align="center">Hi, I'm <b>Talia Chen</b> </h1>
 
 <p align="center">
-  Researcher · Biology × Computation × Open Science × 🏔️ · Mountaineer (highest summit: 5210 m)
+  Researcher · Biology × Computation × Open Science 
 </p>
 
 ---
 
 <p align="center">
-  · 🇨🇳 
- <br>
-  ·  Interdisciplinary learner 
- <br> 
-  · Currently applying to universities in the UK and the US
+· 🇨🇳 · Interdisciplinary learner · Applying to universities in the UK & US  
+<br>
+· 🏔️ · Mountaineer (highest summit: 5210 m)  
+<br>
+· Python beginner - one line at a time 
 <br>
   🧐 Current Focus:
 <br>
   - Circadian rhythm and behavioral modeling  
 <br>
-  - Reproducible research pipelines for open science  
+  - Reproducible research pipelines for open science
+<br>
+  - Camus enthusiast (and quiet supporter of the absurd)
 </p>
 
 <p align="center">
