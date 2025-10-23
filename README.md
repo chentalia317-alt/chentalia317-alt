@@ -15,7 +15,7 @@
  <br> 
   · Currently applying to universities in the UK and the US
 <br>
-  Current Focus
+  🧐 Current Focus:
 <br>
   - Circadian rhythm and behavioral modeling  
 <br>
