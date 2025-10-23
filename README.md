@@ -3,12 +3,12 @@
 <h1 align="center">Hi there, I'm <b>Talia Chen</b> 👋</h1>
 
 <p align="center">
-  Researcher · Biology × Computation × Open Science × 🏔️ · Mountaineer (highest summit: 5210 m) × Interdisciplinary learner
+  Researcher · Biology × Computation × Open Science × 🏔️ · Mountaineer (highest summit: 5210 m)
 </p>
 
 ---
 
-<p align="center">· 🇨🇳 · Currently applying to universities in the UK and the US</p>
+<p align="center">· 🇨🇳 ·  Interdisciplinary learner · Currently applying to universities in the UK and the US</p>
 
 
 ### Current Focus
@@ -16,5 +16,5 @@
 - Reproducible research pipelines for open science  
 
 <p align="center">
-  <img src="Phoenix Code/dog.jpg" width="280" alt="science animation">
+  <img src="https://github.com/chentalia317-alt/chentalia317-alt/blob/main/dog.jpg" width="280" alt="science animation">
 </p>
