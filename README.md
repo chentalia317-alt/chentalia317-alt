@@ -1,16 +1,20 @@
-## Hi there 👋
+<!-- Profile README for Talia Chen -->
 
-<!--
-**chentalia317-alt/chentalia317-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm <b>Talia Chen</b> 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Researcher · Biology × Computation × Open Science × 🏔️ · Mountaineer (highest summit: 5210 m) × Interdisciplinary learner
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">· 🇨🇳 · Currently applying to universities in the UK and the US</p>
+
+
+### Current Focus
+- Circadian rhythm and behavioral modeling  
+- Reproducible research pipelines for open science  
+
+<p align="center">
+  <img src="Phoenix Code/dog.jpg" width="280" alt="science animation">
+</p>
