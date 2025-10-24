@@ -9,7 +9,7 @@ jobs:
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.token }}
           user: chentalia317-alt
           template: classic
           base: header, activity, community
