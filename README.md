@@ -1,34 +1,69 @@
+# Hi, I'm Talia Chen 🧬
 
-# Hi, I'm Talia Chen 🧬  
 🇨🇳 Researcher · Biology × Computation × Open Science
 
-### About Me  
--  Interdisciplinary learner · Applying to universities in the **UK & US**  
-- 🏔️ Mountaineer *(highest summit: 5210 m)
-- Python beginner — one line at a time  
-- Camus enthusiast (and quiet supporter of the absurd)
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## About Me
+- Interdisciplinary learner · Applying to universities in the **UK & US**
+- 🧗‍♀️ Mountaineer *(highest summit: 5210 m)*
+- Python beginner — one line at a time
+- Camus enthusiast (quiet supporter of the absurd)
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://github.com/chentalia317-alt/chentalia317-alt/blob/main/dog.jpg" alt="Talia" width="85%"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
-### 🧠 Current Focus  
+<table>
+<tr>
+<td width="60%" valign="top">
+
+## 🧠 Current Focus
 - Circadian rhythm & behavioral modeling  
-- Reproducible research pipelines for open science  
+- Reproducible research pipelines for open science
+
+</td>
+<td width="40%" valign="top">
+
+## ⭐ Featured Repositories
+<a href="https://github.com/Talia-noemalab/repo-1">
+  <img src="https://github.com/chentalia317-alt/sleep-hygiene-intervention" />
+</a>
+<a href="https://github.com/Talia-noemalab/repo-2">
+  <img src="https://github.com/chentalia317-alt/panda-behavior-observation" />
+</a>
+</td>
+</tr>
+</table>
+
+---
+<table>
+<tr>
+<td width="60%" align="center">
+
+### GitHub Stats
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Talia-noemalab&show_icons=true&count_private=true&hide_border=true" />
+
+</td>
+<td width="40%" align="center">
+
+### Most Used Languages
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talia-noemalab&layout=compact&hide_border=true" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <img src="https://github.com/chentalia317-alt/chentalia317-alt/blob/main/dog.jpg" width="400" alt="dog wrapped in towel"/>
-</p>
-
----
-
-### GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chentalia317-alt&show_icons=true&theme=calm&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chentalia317-alt&layout=compact&theme=calm&hide_border=true" height="165"/>
-</p>
-
----
-
-### 💬 Motto  
->  **Currently merging chaos into main.**
-</p>
+## 💬 Motto
+> Currently merging chaos into main.
