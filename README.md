@@ -18,6 +18,7 @@
 <ul>
   <li>Circadian rhythm & behavioral modeling</li>
   <li>Reproducible research pipelines for open science</li>
+  <li>Python & Java</li>
 </ul>
 <br>
 <p><b>💭 Motto:</b> <i>Currently merging chaos into main.</i></p>
