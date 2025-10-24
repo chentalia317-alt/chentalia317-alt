@@ -1,6 +1,6 @@
-name: GitHub Metrics
+name: Repositories Metrics
 on:
-  schedule: [{cron: "0 8 * * *"}]
+  schedule: [{cron: "0 9 * * *"}]
   workflow_dispatch:
 jobs:
   github-metrics:
@@ -12,16 +12,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           user: chentalia317-alt
           template: classic
-          base: header, activity, community
-          config_timezone: Asia/Shanghai
-
-          # 3D贡献图
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_isocalendar_3d: yes
-
-          # Repositories summary
+          base: ""
           plugin_repositories: yes
-          plugin_repositories_affiliations: owner
-          plugin_repositories_batch: 100
           plugin_repositories_featured: chentalia317-alt/sleep-hygiene-intervention, chentalia317-alt/panda-behavior-observation
