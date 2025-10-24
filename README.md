@@ -35,10 +35,10 @@
 <td width="40%" valign="top">
 
 ## ⭐ Featured Repositories
-<a href="https://github.com/Talia-noemalab/repo-1">
+<a href="https://github.com/chentalia317-alt/repo-1">
   <img src="https://github.com/chentalia317-alt/sleep-hygiene-intervention" />
 </a>
-<a href="https://github.com/Talia-noemalab/repo-2">
+<a href="https://github.com/chentalia317-alt/repo-2">
   <img src="https://github.com/chentalia317-alt/panda-behavior-observation" />
 </a>
 </td>
@@ -51,13 +51,13 @@
 <td width="60%" align="center">
 
 ### GitHub Stats
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Talia-noemalab&show_icons=true&count_private=true&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=chentalia317-alt&show_icons=true&count_private=true&hide_border=true" />
 
 </td>
 <td width="40%" align="center">
 
 ### Most Used Languages
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talia-noemalab&layout=compact&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chentalia317-altb&layout=compact&hide_border=true" />
 
 </td>
 </tr>
