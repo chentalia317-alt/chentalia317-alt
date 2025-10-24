@@ -4,7 +4,7 @@
 
 ### About Me  
 -  Interdisciplinary learner · Applying to universities in the **UK & US**  
-- 🏔️ Mountaineer *(highest summit: 5,210 m)* — I find rhythm in every climb  
+- 🏔️ Mountaineer *(highest summit: 5210 m)
 - Python beginner — one line at a time  
 - Camus enthusiast (and quiet supporter of the absurd)
 ---
