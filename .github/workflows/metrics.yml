@@ -1,7 +1,7 @@
 name: GitHub Metrics
 on:
-  schedule: [{cron: "0 8 * * *"}]  # 早上自动更新北京时间16:00
-  workflow_dispatch:               # 手动
+  schedule: [{cron: "0 8 * * *"}]
+  workflow_dispatch:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -15,6 +15,13 @@ jobs:
           base: header, activity, community
           config_timezone: Asia/Shanghai
 
+          # 3D贡献图
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_isocalendar_3d: yes
+
+          # Repositories summary
+          plugin_repositories: yes
+          plugin_repositories_affiliations: owner
+          plugin_repositories_batch: 100
+          plugin_repositories_featured: chentalia317-alt/sleep-hygiene-intervention, chentalia317-alt/panda-behavior-observation
