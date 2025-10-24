@@ -1,29 +1,34 @@
-<!-- Profile README for Talia Chen -->
 
-<h1 align="center">Hi, I'm <b>Talia Chen</b> </h1>
+# Hi, I'm Talia Chen 🧬  
+🇨🇳 Researcher · Biology × Computation × Open Science
 
-<p align="center">
-  🇨🇳 Researcher · Biology × Computation × Open Science 
-</p>
+### About Me  
+-  Interdisciplinary learner · Applying to universities in the **UK & US**  
+- 🏔️ Mountaineer *(highest summit: 5,210 m)* — I find rhythm in every climb  
+- Python beginner — one line at a time  
+- Camus enthusiast (and quiet supporter of the absurd)
+---
+
+### 🧠 Current Focus  
+- Circadian rhythm & behavioral modeling  
+- Reproducible research pipelines for open science  
 
 ---
 
 <p align="center">
-· Interdisciplinary learner · Applying to universities in the UK & US  
-<br>
-· 🏔️ · Mountaineer (highest summit: 5210 m)  
-<br>
-· Python beginner - one line at a time 
-<br>
-  🧐 Current Focus:
-<br>
-  - Circadian rhythm and behavioral modeling  
-<br>
-  - Reproducible research pipelines for open science
-<br>
-  - Camus enthusiast (and quiet supporter of the absurd)
+  <img src="https://github.com/chentalia317-alt/chentalia317-alt/assets/dog_image.jpg" width="400" alt="dog wrapped in towel"/>
 </p>
 
+---
+
+### GitHub Stats  
 <p align="center">
-  <img src="https://github.com/chentalia317-alt/chentalia317-alt/blob/main/dog.jpg" width="280" alt="science animation">
+  <img src="https://github-readme-stats.vercel.app/api?username=chentalia317-alt&show_icons=true&theme=calm&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chentalia317-alt&layout=compact&theme=calm&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 💬 Motto  
+>  **Currently merging chaos into main.**
 </p>
