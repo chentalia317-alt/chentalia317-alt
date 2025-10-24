@@ -16,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/chentalia317-alt/chentalia317-alt/assets/dog_image.jpg" width="400" alt="dog wrapped in towel"/>
+  <img src="https://github.com/chentalia317-alt/chentalia317-alt/blob/main/dog.jpg" width="400" alt="dog wrapped in towel"/>
 </p>
 
 ---
