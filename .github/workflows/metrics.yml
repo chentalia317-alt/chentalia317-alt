@@ -1,11 +1,14 @@
 name: GitHub Metrics
 on:
   # 每天北京时间 16:00 自动更新
-  schedule: [{cron: "0 8 * * *"}]
+  schedule:
+    - cron: "0 8 * * *"
   # 手动运行
   workflow_dispatch:
+
 permissions:
-  contents: write   #允许给仓库提交files
+  contents: write   # 允许给仓库提交文件
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -15,23 +18,15 @@ jobs:
         with:
           user: chentalia317-alt
           token: ${{ secrets.METRICS_TOKEN }}
-          config_timezone: Asia/Shanghai
           template: classic
           base: header, activity, community, repositories, metadata
-          #about me
+          config_timezone: Asia/Shanghai
+          filename: github-metrics.svg  
+
           plugin_introduction: yes
           plugin_introduction_title: "About me · Current focus"
-          plugin_introduction_message: |-
-              🧬 Interdisciplinary learner · Applying to universities in the UK &amp; US
-              🏔️ Mountaineer (highest summit: 5210 m)
-              🐷 Python beginner — one line at a time
-              ☕ Camus enthusiast and quiet supporter of the absurd
+          plugin_introduction_message: "🧬 Interdisciplinary learner · Applying to universities in the UK &amp; US · 🏔️ Mountaineer (highest summit: 5210 m) · 🐍 Python beginner — one line at a time · ☕ Camus enthusiast and quiet supporter of the absurd · 🎯 Current focus: Circadian rhythm &amp; behavioral modeling; Reproducible research pipelines for open science; Python &amp; Java."
 
-              **🎯 Current focus:**
-              • Circadian rhythm &amp; behavioral modeling
-              • Reproducible research pipelines for open science
-              • Python &amp; Java
-              
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_isocalendar_3d: yes
@@ -50,7 +45,3 @@ jobs:
           plugin_languages_analysis_timeout: 15
 
           plugin_achievements: no
-          plugin_achievements_threshold: C
-          plugin_achievements_secrets: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_limit: 6
