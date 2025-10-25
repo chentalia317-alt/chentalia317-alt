@@ -1,13 +1,17 @@
 name: GitHub Metrics
 on:
-  # 每天北京时间 16:00 自动更新
+  # 先保留：每天北京时间 16:00
   schedule:
     - cron: "0 8 * * *"
   # 手动运行
   workflow_dispatch:
 
 permissions:
-  contents: write   # 允许给仓库提交文件
+  contents: write
+
+concurrency:
+  group: metrics-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   github-metrics:
@@ -21,11 +25,11 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
-          filename: github-metrics.svg  
+          filename: github-metrics.svg 
 
           plugin_introduction: yes
           plugin_introduction_title: "About me · Current focus"
-          plugin_introduction_message: "🧬 Interdisciplinary learner · Applying to universities in the UK &amp; US · 🏔️ Mountaineer (highest summit: 5210 m) · 🐍 Python beginner — one line at a time · ☕ Camus enthusiast and quiet supporter of the absurd · 🎯 Current focus: Circadian rhythm &amp; behavioral modeling; Reproducible research pipelines for open science; Python &amp; Java."
+          plugin_introduction_message: "🧬 Interdisciplinary learner · Applying to universities in the UK &amp; US. 🏔️ Mountaineer (highest summit: 5210 m). 🐍 Python beginner — one line at a time. ☕ Camus enthusiast and quiet supporter of the absurd. 🎯 Current focus: Circadian rhythm &amp; behavioral modeling; Reproducible research pipelines for open science; Python &amp; Java."
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -39,9 +43,10 @@ jobs:
 
           plugin_languages: yes
           plugin_languages_sections: most-used
-          plugin_languages_limit: 8
+          plugin_languages_limit: 6
           plugin_languages_details: bytes-size, percentage
-          plugin_languages_indepth: yes
-          plugin_languages_analysis_timeout: 15
+          plugin_languages_indepth: no
+          plugin_languages_analysis_timeout: 5
 
           plugin_achievements: no
+
