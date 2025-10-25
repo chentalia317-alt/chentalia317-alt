@@ -20,16 +20,18 @@ jobs:
           base: header, activity, community, repositories, metadata
           #about me
           plugin_introduction: yes
-          plugin_introduction_tittle: "About Me"
-          plugin_introduction_message: |
-          Interdisciplinary learner · Applying to universities in the UK & US; 🏔️ Mountaineer (highest summit: 5210 m);Python beginner — one line at a time
-            <p align="left">
-              <img src="https://github.com/chentalia317-alt/chentalia317-alt/blob/main/dog.jpg" width="120" align="right" style="border-radius:10px; margin-left:10px;"/>
-             </p>
-          plugin_focus: yes
-          plugin_focus_tittle: "Current Focus"
-          plugin_focus_message: Circadian rhythm & behavioral modeling; Reproducible research pipelines for open science; Python & Java
-         
+          plugin_introduction_title: "About me · Current focus"
+          plugin_introduction_message: |-
+              🧬 Interdisciplinary learner · Applying to universities in the UK &amp; US
+              🏔️ Mountaineer (highest summit: 5210 m)
+              🐍 Python beginner — one line at a time
+              ☕ Camus enthusiast and quiet supporter of the absurd
+
+              **🎯 Current focus:**
+              • Circadian rhythm &amp; behavioral modeling
+              • Reproducible research pipelines for open science
+              • Python &amp; Java
+              
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           plugin_isocalendar_3d: yes
