@@ -4,7 +4,8 @@ on:
   schedule: [{cron: "0 8 * * *"}]
   # 手动运行
   workflow_dispatch:
-
+permissions:
+  contents: write   #允许给仓库提交files
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
