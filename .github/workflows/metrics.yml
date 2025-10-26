@@ -39,6 +39,7 @@ jobs:
           plugin_repositories_affiliations: owner
           plugin_repositories_featured: >
             chentalia317-alt/sleep-hygiene-intervention,
+            chhentalia317-alt/Noema-Bot,
             chentalia317-alt/panda-behavior-observation
 
           plugin_languages: yes
